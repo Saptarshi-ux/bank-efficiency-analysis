@@ -96,4 +96,10 @@ Kolkata, India
 Open to opportunities and collaborations in:
 - Analytics  
 - Finance  
-- Data-driven research  
+- Data-driven research
+
+---
+##  Usage Note
+This repository is intended for informational and professional portfolio purposes only.  
+**All rights to the published chapter belong to the publisher (Routledge, Taylor & Francis Group).**  
+Please refer to the official publication for full content and citation.
