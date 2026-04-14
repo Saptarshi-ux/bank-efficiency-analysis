@@ -9,6 +9,9 @@
 🔗 **Access the Book:**  
 https://www.routledge.com/Economic-Growth-Price-Stability-and-Governance-Implications-of-Fiscal-and-Monetary-Policies-Global-Scenario/ChandraDas/p/book/9781041025276  
 
+<img width="180" height="270" alt="image" src="https://github.com/user-attachments/assets/da1a6bee-7633-4a4c-b121-d175ab8d12a6" />
+
+
 ---
 
 ##  Overview
