@@ -88,7 +88,11 @@ Due to publisher copyright:
 Please refer to the official Routledge publication for citation.
 
 ---
+## Software and Tools used:
+- For analysis, I used R Studio and STATA
+- Data Cleaning and Data Framing in MS Excel
 
+---
 ##  Author
 **Saptarshi Bandyopadhyay And Santanu Ghosh**  
 Kolkata, India  
