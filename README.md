@@ -103,7 +103,7 @@ Kolkata, India
 Open to opportunities and collaborations in:
 - Analytics  
 - Finance  
-- Data-driven research
+- Data-driven statistaical research
 
 ---
 ##  Usage Note
